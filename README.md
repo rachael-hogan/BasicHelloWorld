@@ -1,2 +1,2 @@
-# stripe-interview
-A JavaScript project
+# To Run
+node src/index.js
